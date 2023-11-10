@@ -1,0 +1,6 @@
+{
+    "fruits": ["strawberry", "grapes", "banana"],
+    "liquid": ["water", "ice"],
+    "holder": ["cone", "cough", "stick"],
+    "toppings": ["chocolate", "peanuts"]
+}
